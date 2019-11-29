@@ -380,6 +380,16 @@ header > nav a {
     margin-left: -8%;
 }
 
+.bottom-actus-item > * {
+    color: grey;
+}
+
+.bottom-actus-item > h3 {
+    color: black;
+    font-size: 2.3vw;
+    margin-bottom: 0;
+}
+
 .bottom-actus-article{
     display: flex;
     justify-content: space-around;
@@ -390,11 +400,6 @@ header > nav a {
     width: 340px;
     height: 100%;
     background-size: cover
-}
-
-.bottom-actus-item > h3{
-    font-size: 2em;
-    margin-bottom: 0;
 }
 
 .bottom-actus-item-right{
